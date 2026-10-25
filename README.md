@@ -13,7 +13,7 @@ I'm currently doing civilian service at a hospital and I'm looking for a role in
 - **[jobpipe](https://github.com/caso02/jobpipe)**
   Collects Swiss job postings, normalizes them and ranks them against a search profile with embeddings and rules. Daily digest, clustering and dashboard. *Python, Pydantic, Gemini embeddings, Streamlit*
 - **[swiss-cv-generator](https://github.com/caso02/swiss-cv-generator)**
-  Generates realistic synthetic Swiss CVs from BFS statistics and occupation data. ZHAW data science team project with [@gsparty](https://github.com/gsparty). *Python, web scraping, PDF export*
+  Generates realistic synthetic Swiss CVs from BFS statistics and occupation data. ZHAW data science team project with [@gsparty](https://github.com/gsparty) and [@k1nhooo](https://github.com/k1nhooo). *Python, web scraping, PDF export*
 - **[weather_predictor](https://github.com/caso02/weather_predictor)**
   Scrapes Zurich weather data and forecasts the temperature with a random forest. Flask app with Docker on Azure, automated with GitHub Actions. *Python, Scrapy, scikit-learn*
 - **[localflavors](https://github.com/caso02/localflavors)**
